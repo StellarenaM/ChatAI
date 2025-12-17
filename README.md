@@ -1,2 +1,2 @@
-# ChatAI
-一个智能聊天机器人
+# ChatAI-backend
+智能岗位推荐聊天机器人
