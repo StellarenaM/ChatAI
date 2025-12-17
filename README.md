@@ -1,2 +1,2 @@
-# Job Recommendation Chat Dialogue Reboot
-智能岗位推荐聊天对话机器人
+# JchatAI
+聊天机器人
